@@ -27,19 +27,25 @@ nav {
   line-height: 35px;
   color: #000000;
   border: 5px;
-  border-color: #FFFFFF; }
+  border-color: #FFFFFF;
+  margin: 15px; }
 
 .imagen__rectangulo {
-  width: 200px;
-  height: 200px;
-  border-radius: 11px; }
+  height: 65%;
+  border-radius: 11px;
+  margin-left: 36px;
+  margin-top: 30px;
+}
 
 .rectangulocompra {
   width: 166px;
   height: 49px;
   background: #00ADB5;
   border-radius: 11px;
-  transition: all 0.7s; }
+  transition: all 0.7s;
+  margin-left: 35px;
+  margin-top: -20px;
+  margin-bottom: 50px; }
 
 .rectangulocompra:hover {
   background-color: blue; }
@@ -50,7 +56,8 @@ nav {
   font-size: 24px;
   line-height: 35px;
   color: #000000;
-  text-align: center; }
+  text-align: center;
+margin-top: 10px; }
 
 footer {
   color: #000000;
@@ -59,3 +66,11 @@ footer {
   font-size: 24px;
   line-height: 28px;
   padding: 50px; }
+
+  .logo{
+height: 50px;
+  }
+
+  .modificacionimagen{
+    margin-left: 60px;
+  }

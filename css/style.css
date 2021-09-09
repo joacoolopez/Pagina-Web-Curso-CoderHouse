@@ -1,0 +1,61 @@
+.header__menu__logo {
+  width: 54px; }
+
+body {
+  background-color: #222831; }
+
+nav {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  color: #000000; }
+
+.articulo__rectangulo__grande {
+  width: 243px;
+  height: 369px;
+  background: #393E46;
+  border-radius: 11px;
+  margin: 10px; }
+
+.fuenterectangulo {
+  text-align: center;
+  font-family: 'Bebas Neue', cursive;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 35px;
+  color: #000000;
+  border: 5px;
+  border-color: #FFFFFF; }
+
+.imagen__rectangulo {
+  width: 200px;
+  height: 200px;
+  border-radius: 11px; }
+
+.rectangulocompra {
+  width: 166px;
+  height: 49px;
+  background: #00ADB5;
+  border-radius: 11px;
+  transition: all 0.7s; }
+
+.rectangulocompra:hover {
+  background-color: blue; }
+
+.fuente__comprar {
+  font-family: 'Bebas Neue', cursive;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 35px;
+  color: #000000;
+  text-align: center; }
+
+footer {
+  color: #000000;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  padding: 50px; }

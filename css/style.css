@@ -28,7 +28,7 @@ nav {
   color: #000000;
   border: 5px;
   border-color: #FFFFFF;
-  margin: 15px; }
+  margin-bottom: 10px; }
 
 .imagen__rectangulo {
   height: 65%;
@@ -44,11 +44,11 @@ nav {
   border-radius: 11px;
   transition: all 0.7s;
   margin-left: 35px;
-  margin-top: -20px;
+  margin-top: -10px;
   margin-bottom: 50px; }
 
 .rectangulocompra:hover {
-  background-color: blue; }
+  background-color: white; }
 
 .fuente__comprar {
   font-family: 'Bebas Neue', cursive;
@@ -77,6 +77,59 @@ height: 50px;
 
 
   .imageniphonegrande{
+    margin-top: 50px;
     width: 597px;
     height: 597px;
+  }
+
+  .iphonefuente{
+    font-family: 'Bebas Neue', cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 64px;
+    line-height: 94px;
+    color: #FFFFFF;
+    margin-top: 100px;
+  }
+
+  .preciofuente{
+    font-family: 'Bebas Neue', cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 59px;
+    color: #FFFFFF;
+
+  }
+
+  .descripcionfuente{
+    font-family: 'Antic', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 29px;
+    color: #FFFFFF;
+
+  }
+
+  .rectangulopaginaiphone{
+    width: 210px;
+    height: 60px;
+    background: #00ADB5;
+    border-radius: 11px;
+    transition: all 0.7s;
+  }
+
+  .rectangulopaginaiphone:hover{
+    background: white;
+  }
+
+  .comprariphone{
+    font-family: 'Bebas Neue', cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 38px;
+    line-height: 70px;
+    color: #000000;
+    margin-left: 47px;
   }

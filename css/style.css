@@ -10,7 +10,8 @@ nav {
   font-weight: normal;
   font-size: 24px;
   line-height: 28px;
-  color: #000000; }
+  color: #000000;
+  text-decoration: none; }
 
 .articulo__rectangulo__grande {
   width: 243px;
@@ -28,7 +29,8 @@ nav {
   color: #000000;
   border: 5px;
   border-color: #FFFFFF;
-  margin-bottom: 10px; }
+  margin-bottom: 10px;
+  text-decoration: none; }
 
 .imagen__rectangulo {
   height: 65%;
@@ -57,7 +59,8 @@ nav {
   line-height: 35px;
   color: #000000;
   text-align: center;
-margin-top: 10px; }
+  margin-top: 10px;
+  text-decoration: none; }
 
 footer {
   color: #000000;
@@ -132,4 +135,32 @@ height: 50px;
     line-height: 70px;
     color: #000000;
     margin-left: 47px;
+  }
+
+  .controls {
+    background: #393E46;
+    padding: 10px;
+    border-radius: 6px;
+    margin-bottom: 16px;
+    font-family: 'Antic', sans-serif;
+
+  }
+
+  .botons {
+    background: #00ADB5;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+    font-family: 'Bebas Neue', cursive;
+    border-radius: 6px;
+  }
+
+  .acepto{
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+    font-family: 'Bebas Neue', cursive;
   }

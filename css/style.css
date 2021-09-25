@@ -138,12 +138,16 @@ height: 50px;
   }
 
   .controls {
-    background: #393E46;
+    background: #14FFEC;
     padding: 10px;
     border-radius: 6px;
     margin-bottom: 16px;
     font-family: 'Antic', sans-serif;
-
+    margin-top: 20px;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+    
   }
 
   .botons {
@@ -155,6 +159,7 @@ height: 50px;
     font-size: 16px;
     font-family: 'Bebas Neue', cursive;
     border-radius: 6px;
+
   }
 
   .acepto{
@@ -164,3 +169,64 @@ height: 50px;
     font-size: 16px;
     font-family: 'Bebas Neue', cursive;
   }
+
+  .rectangulo{
+    width: 643px;
+    height: 750px;
+    background: #848a92;
+    border-radius: 11px;
+
+  }
+
+  .nuevo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+  }
+
+  .indexprincipio {
+    font-family: 'Bebas Neue', cursive;
+    color: white;
+    font-size: 40px;
+
+  }
+
+  .inicioimagen {
+  width: 60px;
+  }
+
+  .rectanguloindextres {
+    width: 300px;
+    height: 60px;
+    background: #00ADB5;
+    border-radius: 11px;
+  }
+
+  .rectanguloindexdos {
+    width: 300px;
+    height: 60px;
+    background: #00ADB5;
+    border-radius: 11px;
+  }
+
+  .rectanguloindexuno {
+    width: 300px;
+    height: 60px;
+    background: #00ADB5;
+    border-radius: 11px;
+  }
+
+  .envio{
+    margin-left: 60px;
+  }
+
+  .cuotas{
+    margin-left: 25px;
+  }
+
+  .soporte{
+    margin-left: 35px;
+  }
+
+  
